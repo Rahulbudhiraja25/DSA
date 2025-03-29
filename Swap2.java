@@ -1,5 +1,5 @@
 // Write a program to swap two numbers without using a third variable
-import java.util.*;
+// import java.util.*;
 public class Swap2{
     public static void main(String[] args) {
         int a =5;
