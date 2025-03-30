@@ -9,7 +9,7 @@ public class try_catch {
     final static void getLegalAge( int age){
         if(age<18){
             throw new RahulException("You cannot drive");
-         
+
         }
         else{
             System.out.println("You can drive");
