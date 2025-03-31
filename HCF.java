@@ -1,4 +1,4 @@
-//Program to find HCF two nubers
+//Program to find HCF two numbers
 public class HCF {
 
     public static void main(String[] args) {
